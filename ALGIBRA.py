@@ -159,4 +159,4 @@ async def ИСЛЕДПОРАБ(ctx, a, b, c):
 
 
 
-bot.run('OTA0MDA1ODY5MjI0NzU1MjQw.YX1PEg.bLEeiyoaK8RIc5b8YHVRQt4QQUQ')
+bot.run('Token')
