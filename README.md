@@ -1,2 +1,2 @@
-# Zoe
-Is my discod asistant
+# Build
+It is all compilation Zoe
